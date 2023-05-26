@@ -63,22 +63,6 @@ In this unit, we'll learn 3 of the 4 technologies that comprise the MERN-Stack:
 
 <img src="https://i.imgur.com/FKGehuM.jpg">
 
-### Web Technology Stack - Unit 3
-
-In Unit 3, we'll learn:
-
-<img src="https://i.imgur.com/GuogOfX.png">
-<img src="https://i.imgur.com/MjX4aD7.png">
-
-### Web Technology Stack - Unit 4
-
-In Unit 4, we go full MERN-stack:
-
-<img src="https://i.imgur.com/jlKEj7F.png">
-
-## 4. Client/Server Architecture
-
-<img src="https://i.imgur.com/clxiqnO.png">
 
 The terms **client** and **server** can refer to both a **physical device** (computer, tablet, phone, etc.) but can also refer to a **software process**. For example:
 
